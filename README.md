@@ -30,8 +30,8 @@ Fresh to the coding world since 2024, I have a passion for turning complex ideas
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" /></a><br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monicacoding&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monicacoding&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=monicacoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monicacoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br/>
 
