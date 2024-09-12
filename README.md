@@ -24,6 +24,7 @@ Fresh to the coding world since 2024, I have a passion for turning complex ideas
 
 - [The Future of Software Development: Embracing AI's Role](https://monicacoding.medium.com/the-future-of-software-development-embracing-ais-role-58971da6847c)
 - [Cursor AI: A New Frontier in Code Development](https://monicacoding.medium.com/cursor-ai-a-new-frontier-in-code-development-2a6dd39138f8)
+- [The Top 5 Programming Languages to Learn in 2024](https://monicacoding.medium.com/the-top-5-programming-languages-to-learn-in-2024-dcfe95c3ecf5)
 <br/>
 
 ---
