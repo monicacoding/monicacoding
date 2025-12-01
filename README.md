@@ -38,6 +38,3 @@ Off the clock, I’m either playing tennis, running trails, or trying to code wh
 - Sharing thoughts and insights on [Medium](https://medium.com/@monicacoding). <br/>
 - Always reachable via [LinkedIn](https://www.linkedin.com/in/monicafariacaires/) or hello@monicacoding.dev. <br/>
 <br/>
-
----
-
