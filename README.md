@@ -52,7 +52,7 @@ Off the clock, I’m either running trails, reading, playing tennis, or trying t
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Currently+Reading" alt="Typing SVG" /></a><br/>
 - 🙇‍♀️ [The Daily Stoic](https://amzn.to/4rqMJRJ) by Ryan Holiday ~ A year-long collection of daily Stoic reflections drawn from ancient philosophy.
 - 🧠 [Stop Letting Everything Affect You](https://amzn.to/3MNEAaM) by Daniel Chidiac ~ A practical guide to managing emotions, overthinking, and self-sabotaging patterns.
-- 👾 [The Dungeon Anarchist's Cookbook](https://amzn.to/4aBaT4N) by Matt Dinniman ~ Carl and Donut escalate their rebellion while surviving an even more chaotic dungeon floor (Book 3).
+- 👾 [The Gate of the Feral Gods](https://amzn.to/4kSFJKP) by Matt Dinniman ~ Carl and Donut battle through a savage new dungeon level where rival factions, deadly gods, and escalating chaos threaten their survival (Book 4).
 
 View my [Reading Journal](https://github.com/monicacoding/reading-journal/blob/main/README.md).
 
