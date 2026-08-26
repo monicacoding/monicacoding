@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I craft responsive, user-focused web apps using JavaScript, React, Next.js, and TailwindCSS, always aiming for clean architecture, accessibility, and smooth user experiences. <br/>
+I craft responsive, user-focused web apps using **JavaScript**, **React**, **Next.js**, and **TailwindCSS**, always aiming for clean architecture, accessibility, and smooth user experiences. <br/>
 
 I’m documenting my developer journey on [Instagram](https://instagram.com/monicacoding), sharing thoughts and insights on [Medium](https://medium.com/@monicacoding), and always reachable via [LinkedIn](https://www.linkedin.com/in/monicafariacaires/) or hello@monicacoding.dev. <br/>
 
