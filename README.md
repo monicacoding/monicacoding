@@ -1,8 +1,8 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&letterSpacing=0.2rem&duration=1500&pause=2000&color=8075FF&vCenter=true&width=435&lines=Hello+world%2C;I'm+Monica!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-**`Full-Stack Developer`**
+**`Software Developer`**
 
-I craft responsive, user-focused web apps using JavaScript, React, Next.js, Node.js, Express, and TailwindCSS, always aiming for clean architecture, accessibility, and smooth user experiences. <br/>
+I craft responsive, user-focused web apps using JavaScript, React, Next.js, and TailwindCSS, always aiming for clean architecture, accessibility, and smooth user experiences. <br/>
 
 I’m documenting my developer journey on [Instagram](https://instagram.com/monicacoding), sharing thoughts and insights on [Medium](https://medium.com/@monicacoding), and always reachable via [LinkedIn](https://www.linkedin.com/in/monicafariacaires/) or hello@monicacoding.dev. <br/>
 
@@ -22,10 +22,12 @@ Off the clock, I’m either running trails, reading, playing tennis, or trying t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
   <img width="12" />
+  -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
@@ -50,9 +52,9 @@ Off the clock, I’m either running trails, reading, playing tennis, or trying t
 
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Currently+Reading" alt="Typing SVG" /></a><br/>
-- 🙇‍♀️ [The Daily Stoic](https://amzn.to/4rqMJRJ) by Ryan Holiday ~ A year-long collection of daily Stoic reflections drawn from ancient philosophy.
-- 🧠 [Stop Letting Everything Affect You](https://amzn.to/3MNEAaM) by Daniel Chidiac ~ A practical guide to managing emotions, overthinking, and self-sabotaging patterns.
-- 👾 [The Gate of the Feral Gods](https://amzn.to/4kSFJKP) by Matt Dinniman ~ Carl and Donut battle through a savage new dungeon level where rival factions, deadly gods, and escalating chaos threaten their survival (Book 4).
+- 🤐 [The Silent Patient](https://fable.co/book/the-silent-patient-by-alex-michaelides-9781250301710) by Alex Michaelides ~ A psychotherapist tries to uncover why a famous painter shot her husband and went silent.
+- 🧠 [Stop Letting Everything Affect You](https://fable.co/book/stop-letting-everything-affect-you-by-daniel-chidiac-9781764110839) by Daniel Chidiac ~ A practical guide to managing emotions, overthinking, and self-sabotaging patterns.
+- 👾 [The Gate of the Feral Gods](https://fable.co/book/the-gate-of-the-feral-gods-dungeon-crawler-carl-4-by-matt-dinniman-ZaOPPrEQ24) by Matt Dinniman ~ Carl and Donut battle through a savage new dungeon level where rival factions, deadly gods, and escalating chaos threaten their survival (Book 4).
 
 View my [Reading Journal](https://github.com/monicacoding/reading-journal/blob/main/README.md).
 
