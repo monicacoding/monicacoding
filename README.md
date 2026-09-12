@@ -52,9 +52,8 @@ Off the clock, I’m either running trails, reading, playing tennis, or trying t
 
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Currently+Reading" alt="Typing SVG" /></a><br/>
-- 🤐 [The Silent Patient](https://fable.co/book/the-silent-patient-by-alex-michaelides-9781250301710) by Alex Michaelides ~ A psychotherapist tries to uncover why a famous painter shot her husband and went silent.
+- 🔪 [The Butcher's Masquerade](https://fable.co/book/the-butchers-masquerade-dungeon-crawler-carl-5-by-matt-dinniman-Gw4jl5GtNd) by Matt Dinniman ~ Carl and Donut face the deadly sixth floor's Hunting Grounds, where outside tourist-hunters — led by the ruthless Vrah — turn the crawlers into prey (Book 5).
 - 🧠 [Stop Letting Everything Affect You](https://fable.co/book/stop-letting-everything-affect-you-by-daniel-chidiac-9781764110839) by Daniel Chidiac ~ A practical guide to managing emotions, overthinking, and self-sabotaging patterns.
-- 👾 [The Gate of the Feral Gods](https://fable.co/book/the-gate-of-the-feral-gods-dungeon-crawler-carl-4-by-matt-dinniman-ZaOPPrEQ24) by Matt Dinniman ~ Carl and Donut battle through a savage new dungeon level where rival factions, deadly gods, and escalating chaos threaten their survival (Book 4).
 
 View my [Reading Journal](https://github.com/monicacoding/reading-journal/blob/main/README.md).
 
